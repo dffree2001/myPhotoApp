@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1536086902">
+    <data-source source="LOCAL" name="Rails MyPhotoApp: development" uuid="0c36c3f5-1e5f-45d0-b488-0c226a115c93">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:MyPhotoApp_development</jdbc-url>
+      <user-name>MyPhotoApp</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails MyPhotoApp: test" uuid="ed297cc4-6b60-4db2-97fc-6241f5ab835a">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:MyPhotoApp_test</jdbc-url>
+      <user-name>MyPhotoApp</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails MyPhotoApp: production" uuid="69a6aea6-0a32-44bb-afe9-b9c081ae9d29">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:MyPhotoApp_production</jdbc-url>
+      <user-name>MyPhotoApp</user-name>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
